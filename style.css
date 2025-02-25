@@ -1,0 +1,31 @@
+#topMenu {
+    background-color: #004030;
+}
+
+#brandPic {
+    width: 200px;
+}
+
+#navList {
+    color: white;
+}
+
+.murphy-background {
+    background: url('http://courses.ics.hawaii.edu/ics314f22/morea/ui-frameworks/murphys-new-background.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    height: 650px;
+}
+
+.murphy-background h1 {
+    color: white;
+    text-align: center;
+}
+
+#murphyFooter{
+    background-color: #004030;
+    color: white;
+}
+
+#footerContent {
+    padding: 40px;
+}
